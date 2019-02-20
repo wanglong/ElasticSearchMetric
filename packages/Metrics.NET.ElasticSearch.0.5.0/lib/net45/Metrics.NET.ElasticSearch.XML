@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Metrics.NET.ElasticSearch</name>
+    </assembly>
+    <members>
+        <member name="T:Metrics.ElasticSearch.RollingIndexType">
+            <summary>
+            Manipulates the Elastic to be broken into partitions for maintenance purposes
+            </summary>
+        </member>
+        <member name="F:Metrics.ElasticSearch.RollingIndexType.None">
+            <summary>
+            the Elastic Index would be the same as provided to Config
+            </summary>
+        </member>
+        <member name="F:Metrics.ElasticSearch.RollingIndexType.Daily">
+            <summary>
+            the Elastic Index would be the INDEX-yyyy-MM-dd, use this to be able to delete Index by day for maintenance purposes
+            </summary>
+        </member>
+        <member name="F:Metrics.ElasticSearch.RollingIndexType.Monthly">
+            <summary>
+            the Elastic Index would be the INDEX-yyyy-MM, use this to be able to delete Index by month for maintenance purposes
+            </summary>
+        </member>
+        <member name="T:Metrics.ElasticSearch.ElasticReportsConfig">
+            <summary>
+            Configuration for using the elastic (elastic search) reporting
+            </summary>
+        </member>
+        <member name="P:Metrics.ElasticSearch.ElasticReportsConfig.RollingIndexType">
+            <summary>
+            Gets or sets the type of the rolling index.
+            </summary>
+            <value>
+            The type of the rolling index.
+            </value>
+        </member>
+        <member name="P:Metrics.ElasticSearch.ElasticReportsConfig.ReportingApplication">
+            <summary>
+            optional, provide this interface to be reflected on the health checks document reports
+            </summary>
+        </member>
+        <member name="P:Metrics.ElasticSearch.ApplicationInfo.UpTime">
+            <summary>
+            Gets your application up time.
+            </summary>
+            <value>
+            Up time.
+            </value>
+        </member>
+        <member name="P:Metrics.ElasticSearch.ApplicationInfo.Version">
+            <summary>
+            Gets the version.
+            </summary>
+            <value>
+            The your applicationversion.
+            </value>
+        </member>
+    </members>
+</doc>

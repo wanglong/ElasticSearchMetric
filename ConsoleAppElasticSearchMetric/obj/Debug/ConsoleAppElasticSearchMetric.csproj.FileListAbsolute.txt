@@ -1,0 +1,14 @@
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\ConsoleAppElasticSearchMetric.exe.config
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\ConsoleAppElasticSearchMetric.exe
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\ConsoleAppElasticSearchMetric.pdb
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\Metrics.dll
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\Metrics.NET.ElasticSearch.dll
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\Metrics.pdb
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\Metrics.xml
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\Metrics.NET.ElasticSearch.pdb
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\bin\Debug\Metrics.NET.ElasticSearch.xml
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\obj\Debug\ConsoleAppElasticSearchMetric.csproj.CoreCompileInputs.cache
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\obj\Debug\ConsoleAppElasticSearchMetric.csproj.CopyComplete
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\obj\Debug\ConsoleAppElasticSearchMetric.exe
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\obj\Debug\ConsoleAppElasticSearchMetric.pdb
+D:\doc\VS2017Work\ConsoleAppElasticSearchMetric\ConsoleAppElasticSearchMetric\obj\Debug\ConsoleAppElasticSearchMetric.csprojAssemblyReference.cache
